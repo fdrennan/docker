@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548276652651.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AA7D62F3",
+    "lastKnownWriteTime" : 1548276660,
+    "last_content_update" : 1548276660969,
+    "path" : "~/Documents/R/drocker/plumber_docker",
+    "project_path" : "plumber_docker",
+    "properties" : {
+        "cursorPosition" : "23,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

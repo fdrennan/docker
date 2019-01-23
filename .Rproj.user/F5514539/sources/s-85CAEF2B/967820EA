@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548277503502.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "967820EA",
+    "lastKnownWriteTime" : 1548282174,
+    "last_content_update" : 1548282174631,
+    "path" : "~/Documents/R/drocker/rstudio/dockerfile",
+    "project_path" : "rstudio/dockerfile",
+    "properties" : {
+        "cursorPosition" : "24,7",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
