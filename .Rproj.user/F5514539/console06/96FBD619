@@ -1021,3 +1021,38 @@ To github.com:fdrennan/docker.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 ]0;~/Documents/R/drockerdigitalfirstmedia@Digitals-MacBook-Pro [32m~/Documents/R/drocker[33m (master)[00m $ git addd[K --all
+]0;~/Documents/R/drockerdigitalfirstmedia@Digitals-MacBook-Pro [32m~/Documents/R/drocker[33m (master)[00m $ git commit -m 'update'
+[master 078fc98] update
+ 28 files changed, 1399 insertions(+)
+ create mode 100644 .Rhistory
+ create mode 100644 .Rproj.user/F5514539/console06/96FBD619
+ create mode 100644 .Rproj.user/F5514539/console06/96FBD619.env
+ create mode 100644 .Rproj.user/F5514539/console06/INDEX001
+ create mode 100644 .Rproj.user/F5514539/pcs/files-pane.pper
+ create mode 100644 .Rproj.user/F5514539/pcs/source-pane.pper
+ create mode 100644 .Rproj.user/F5514539/pcs/windowlayoutstate.pper
+ create mode 100644 .Rproj.user/F5514539/pcs/workbench-pane.pper
+ create mode 100644 .Rproj.user/F5514539/rmd-outputs
+ create mode 100644 .Rproj.user/F5514539/saved_source_markers
+ create mode 100644 .Rproj.user/F5514539/sources/prop/41AA8674
+ create mode 100644 .Rproj.user/F5514539/sources/prop/42562185
+ create mode 100644 .Rproj.user/F5514539/sources/prop/7248C39
+ create mode 100644 .Rproj.user/F5514539/sources/prop/BBE44FF0
+ create mode 100644 .Rproj.user/F5514539/sources/prop/INDEX
+ create mode 100644 .Rproj.user/F5514539/sources/s-85CAEF2B/967820EA
+ create mode 100644 .Rproj.user/F5514539/sources/s-85CAEF2B/967820EA-contents
+ create mode 100644 .Rproj.user/F5514539/sources/s-85CAEF2B/AA7D62F3
+ create mode 100644 .Rproj.user/F5514539/sources/s-85CAEF2B/AA7D62F3-contents
+ create mode 100644 .Rproj.user/F5514539/sources/s-85CAEF2B/BE35D083
+ create mode 100644 .Rproj.user/F5514539/sources/s-85CAEF2B/BE35D083-contents
+ create mode 100644 .Rproj.user/F5514539/sources/s-85CAEF2B/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 drocker.Rproj
+ create mode 100644 info.md
+ create mode 100644 plumber_docker
+ create mode 100644 rstudio/dockerfile
+]0;~/Documents/R/drockerdigitalfirstmedia@Digitals-MacBook-Pro [32m~/Documents/R/drocker[33m (master)[00m $ git push [K[K[K[K[K[K[K[K[Kls
+README.md	drocker.Rproj	info.md		plumber_docker	rstudio
+]0;~/Documents/R/drockerdigitalfirstmedia@Digitals-MacBook-Pro [32m~/Documents/R/drocker[33m (master)[00m $ vim .gitin[Kg[Kgnore
+[?2004h]0;~/Documents/R/drockerdigitalfirstmedia@Digitals-MacBook-Pro [32m~/Documents/R/drocker[33m (master)[00m $ git ad [Kd --all
